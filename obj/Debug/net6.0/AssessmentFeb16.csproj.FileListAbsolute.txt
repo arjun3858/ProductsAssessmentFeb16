@@ -1,0 +1,14 @@
+E:\SpecFlow Phase 4\AssessmentFeb16\AssessmentFeb16\bin\Debug\net6.0\AssessmentFeb16.exe
+E:\SpecFlow Phase 4\AssessmentFeb16\AssessmentFeb16\bin\Debug\net6.0\AssessmentFeb16.deps.json
+E:\SpecFlow Phase 4\AssessmentFeb16\AssessmentFeb16\bin\Debug\net6.0\AssessmentFeb16.runtimeconfig.json
+E:\SpecFlow Phase 4\AssessmentFeb16\AssessmentFeb16\bin\Debug\net6.0\AssessmentFeb16.dll
+E:\SpecFlow Phase 4\AssessmentFeb16\AssessmentFeb16\bin\Debug\net6.0\AssessmentFeb16.pdb
+E:\SpecFlow Phase 4\AssessmentFeb16\AssessmentFeb16\obj\Debug\net6.0\AssessmentFeb16.GeneratedMSBuildEditorConfig.editorconfig
+E:\SpecFlow Phase 4\AssessmentFeb16\AssessmentFeb16\obj\Debug\net6.0\AssessmentFeb16.AssemblyInfoInputs.cache
+E:\SpecFlow Phase 4\AssessmentFeb16\AssessmentFeb16\obj\Debug\net6.0\AssessmentFeb16.AssemblyInfo.cs
+E:\SpecFlow Phase 4\AssessmentFeb16\AssessmentFeb16\obj\Debug\net6.0\AssessmentFeb16.csproj.CoreCompileInputs.cache
+E:\SpecFlow Phase 4\AssessmentFeb16\AssessmentFeb16\obj\Debug\net6.0\AssessmentFeb16.dll
+E:\SpecFlow Phase 4\AssessmentFeb16\AssessmentFeb16\obj\Debug\net6.0\refint\AssessmentFeb16.dll
+E:\SpecFlow Phase 4\AssessmentFeb16\AssessmentFeb16\obj\Debug\net6.0\AssessmentFeb16.pdb
+E:\SpecFlow Phase 4\AssessmentFeb16\AssessmentFeb16\obj\Debug\net6.0\AssessmentFeb16.genruntimeconfig.cache
+E:\SpecFlow Phase 4\AssessmentFeb16\AssessmentFeb16\obj\Debug\net6.0\ref\AssessmentFeb16.dll
