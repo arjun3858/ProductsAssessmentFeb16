@@ -5,6 +5,8 @@ SortedList<int, Products> products = new SortedList<int, Products>();
 
 // Add sample products
 products.Add(1, new Products("Shampoo", 100, "Brand1", new DateTime(2023, 2, 16), new DateTime(2024, 2, 16)));
+products.Add(2, new Products("Facewash", 500, "Brand2", new DateTime(2023, 3, 16), new DateTime(2024, 3, 16)));
+products.Add(3, new Products("Serum", 600, "Brand3", new DateTime(2023, 4, 16), new DateTime(2024, 4, 16)));
 
 
 // Display details
